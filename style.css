@@ -1,0 +1,20 @@
+body {
+    background-color: aqua;
+    color:blueviolet;
+}
+.heading {
+    width:60%;
+    font-size: 25px;
+}
+.b1 {
+    background-color: burlywood;
+    color:crimson;
+}
+#camera,#result {
+    border: 2px dashed gray;
+    width:350px;
+    height: 350px;
+}
+#objname,#accuracy  {
+    color:greenyellow;
+}
